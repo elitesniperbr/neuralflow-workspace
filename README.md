@@ -1,5 +1,5 @@
 # neuralflow-workspace
-# Password-neuralflow
+# Password-NeuralFlow
 ai workflow desktop visualization prototype
 # NeuralFlow Workspace
 ![Preview](https://github.com/elitesniperbr/neuralflow-workspace/blob/main/1.jpg)
