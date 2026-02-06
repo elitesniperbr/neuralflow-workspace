@@ -1,7 +1,7 @@
 # neuralflow-workspace
 ai workflow desktop visualization prototype
 # NeuralFlow Workspace
-![Preview]()
+![Preview](https://github.com/elitesniperbr/neuralflow-workspace/blob/main/1.jpg)
 Visual desktop workspace for designing and simulating AI workflows.
 
 ## Features
